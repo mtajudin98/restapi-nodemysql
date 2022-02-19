@@ -1,0 +1,25 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "rest api node dengan mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtajudin98/restapi-nodemysql.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node",
+    "mysql"
+  ],
+  "author": "mtajudin98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtajudin98/restapi-nodemysql/issues"
+  },
+  "homepage": "https://github.com/mtajudin98/restapi-nodemysql#readme"
+}
